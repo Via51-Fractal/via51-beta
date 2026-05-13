@@ -6,3 +6,5 @@ build/
 .env*
 *.pem
 package-lock.json
+.vercel
+.env*.local
